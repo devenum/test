@@ -1,0 +1,16 @@
+name: lab11-vector-naive
+on:
+  push:
+    branches:
+      - 'lab11-*'
+defaults:
+  run:
+    working-directory: lab11-vector-naive/solution
+jobs:
+  c:
+    uses: ./.github/workflows/common-02.yml
+    with:
+      working_directory: lab11-vector-naive/solution
+      skip_ubuntu_libcxx: true  # https://bugs.launchpad.net/ubuntu/+source/llvm-toolchain-14/+bug/2000322 and https://github.com/llvm/llvm-project/issues/59432
+      max_lines: 400
+      max_lines_ignored_iregex: "./vector_.._.*\\.hpp"  # Partial solutions

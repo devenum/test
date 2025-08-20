@@ -1,0 +1,15 @@
+name: lab01-executor
+on:
+  push:
+    branches:
+      - 'lab01-*'
+defaults:
+  run:
+    working-directory: lab01-executor/solution
+jobs:
+  c:
+    uses: ./.github/workflows/common-01.yml
+    with:
+      working_directory: lab01-executor/solution
+      simple_compilation_name: executor
+      max_lines: 400

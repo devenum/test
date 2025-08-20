@@ -1,0 +1,16 @@
+name: lab02-bigint
+on:
+  push:
+    branches:
+      - 'lab02-*'
+defaults:
+  run:
+    working-directory: lab02-bigint/solution
+jobs:
+  c:
+    uses: ./.github/workflows/common-02.yml
+    with:
+      working_directory: lab02-bigint/solution
+      simple_compilation_name: bigint_test
+      simple_compilation_extra_tus: doctest_main.cpp
+      max_lines: 300

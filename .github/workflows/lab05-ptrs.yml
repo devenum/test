@@ -1,0 +1,16 @@
+name: lab05-ptrs
+on:
+  push:
+    branches:
+      - 'lab05-*'
+defaults:
+  run:
+    working-directory: lab05-ptrs/solution
+jobs:
+  c:
+    uses: ./.github/workflows/common-02.yml
+    with:
+      working_directory: lab05-ptrs/solution
+      simple_compilation_name: doctest_main
+      simple_compilation_extra_tus: shared_ptr_test.cpp unique_ptr_test.cpp
+      max_lines: 400
