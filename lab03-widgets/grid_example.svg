@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="241mm"
+   height="101.00037mm"
+   viewBox="0 0 241 101.00037"
+   version="1.1"
+   id="svg27705"
+   sodipodi:docname="grid_example.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview27707"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="415.5"
+     inkscape:cy="114"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs27702" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="GridCartesian:X12:Y5"
+       transform="translate(0.5,0.5)"
+       id="g28254"
+       style="stroke:#808080;stroke-opacity:1">
+      <g
+         inkscape:label="MajorXGridlines"
+         id="g28100"
+         style="stroke:#808080;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 20,0 V 100"
+           inkscape:label="MajorXDiv1"
+           id="path28078" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 40,0 V 100"
+           inkscape:label="MajorXDiv2"
+           id="path28080" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 60,0 V 100"
+           inkscape:label="MajorXDiv3"
+           id="path28082" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 80,0 V 100"
+           inkscape:label="MajorXDiv4"
+           id="path28084" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 100,0 V 100"
+           inkscape:label="MajorXDiv5"
+           id="path28086" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 120,0 V 100"
+           inkscape:label="MajorXDiv6"
+           id="path28088" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 140,0 V 100"
+           inkscape:label="MajorXDiv7"
+           id="path28090" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 160,0 V 100"
+           inkscape:label="MajorXDiv8"
+           id="path28092" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 180,0 V 100"
+           inkscape:label="MajorXDiv9"
+           id="path28094" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 200,0 V 100"
+           inkscape:label="MajorXDiv10"
+           id="path28096" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 220,0 V 100"
+           inkscape:label="MajorXDiv11"
+           id="path28098" />
+      </g>
+      <g
+         inkscape:label="MajorYGridlines"
+         id="g28110"
+         style="stroke:#808080;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 0,20 H 240"
+           inkscape:label="MajorYDiv1"
+           id="path28102" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 0,40 H 240"
+           inkscape:label="MajorYDiv2"
+           id="path28104" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 0,60 H 240"
+           inkscape:label="MajorYDiv3"
+           id="path28106" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+           d="M 0,80 H 240"
+           inkscape:label="MajorYDiv4"
+           id="path28108" />
+      </g>
+      <g
+         inkscape:label="MinorXGridlines"
+         id="g28208"
+         style="stroke:#808080;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 4,0 V 100"
+           inkscape:label="MinorXDiv0:1"
+           id="path28112" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 8,0 V 100"
+           inkscape:label="MinorXDiv0:2"
+           id="path28114" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 12,0 V 100"
+           inkscape:label="MinorXDiv0:3"
+           id="path28116" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 16,0 V 100"
+           inkscape:label="MinorXDiv0:4"
+           id="path28118" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 24,0 V 100"
+           inkscape:label="MinorXDiv1:1"
+           id="path28120" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 28,0 V 100"
+           inkscape:label="MinorXDiv1:2"
+           id="path28122" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 32,0 V 100"
+           inkscape:label="MinorXDiv1:3"
+           id="path28124" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 36,0 V 100"
+           inkscape:label="MinorXDiv1:4"
+           id="path28126" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 44,0 V 100"
+           inkscape:label="MinorXDiv2:1"
+           id="path28128" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 48,0 V 100"
+           inkscape:label="MinorXDiv2:2"
+           id="path28130" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 52,0 V 100"
+           inkscape:label="MinorXDiv2:3"
+           id="path28132" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 56,0 V 100"
+           inkscape:label="MinorXDiv2:4"
+           id="path28134" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 64,0 V 100"
+           inkscape:label="MinorXDiv3:1"
+           id="path28136" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 68,0 V 100"
+           inkscape:label="MinorXDiv3:2"
+           id="path28138" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 72,0 V 100"
+           inkscape:label="MinorXDiv3:3"
+           id="path28140" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 76,0 V 100"
+           inkscape:label="MinorXDiv3:4"
+           id="path28142" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 84,0 V 100"
+           inkscape:label="MinorXDiv4:1"
+           id="path28144" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 88,0 V 100"
+           inkscape:label="MinorXDiv4:2"
+           id="path28146" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 92,0 V 100"
+           inkscape:label="MinorXDiv4:3"
+           id="path28148" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 96,0 V 100"
+           inkscape:label="MinorXDiv4:4"
+           id="path28150" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 104,0 V 100"
+           inkscape:label="MinorXDiv5:1"
+           id="path28152" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 108,0 V 100"
+           inkscape:label="MinorXDiv5:2"
+           id="path28154" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 112,0 V 100"
+           inkscape:label="MinorXDiv5:3"
+           id="path28156" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 116,0 V 100"
+           inkscape:label="MinorXDiv5:4"
+           id="path28158" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 124,0 V 100"
+           inkscape:label="MinorXDiv6:1"
+           id="path28160" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 128,0 V 100"
+           inkscape:label="MinorXDiv6:2"
+           id="path28162" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 132,0 V 100"
+           inkscape:label="MinorXDiv6:3"
+           id="path28164" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 136,0 V 100"
+           inkscape:label="MinorXDiv6:4"
+           id="path28166" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 144,0 V 100"
+           inkscape:label="MinorXDiv7:1"
+           id="path28168" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 148,0 V 100"
+           inkscape:label="MinorXDiv7:2"
+           id="path28170" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 152,0 V 100"
+           inkscape:label="MinorXDiv7:3"
+           id="path28172" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 156,0 V 100"
+           inkscape:label="MinorXDiv7:4"
+           id="path28174" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 164,0 V 100"
+           inkscape:label="MinorXDiv8:1"
+           id="path28176" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 168,0 V 100"
+           inkscape:label="MinorXDiv8:2"
+           id="path28178" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 172,0 V 100"
+           inkscape:label="MinorXDiv8:3"
+           id="path28180" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 176,0 V 100"
+           inkscape:label="MinorXDiv8:4"
+           id="path28182" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 184,0 V 100"
+           inkscape:label="MinorXDiv9:1"
+           id="path28184" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 188,0 V 100"
+           inkscape:label="MinorXDiv9:2"
+           id="path28186" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 192,0 V 100"
+           inkscape:label="MinorXDiv9:3"
+           id="path28188" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 196,0 V 100"
+           inkscape:label="MinorXDiv9:4"
+           id="path28190" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 204,0 V 100"
+           inkscape:label="MinorXDiv10:1"
+           id="path28192" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 208,0 V 100"
+           inkscape:label="MinorXDiv10:2"
+           id="path28194" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 212,0 V 100"
+           inkscape:label="MinorXDiv10:3"
+           id="path28196" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 216,0 V 100"
+           inkscape:label="MinorXDiv10:4"
+           id="path28198" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 224,0 V 100"
+           inkscape:label="MinorXDiv11:1"
+           id="path28200" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 228,0 V 100"
+           inkscape:label="MinorXDiv11:2"
+           id="path28202" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 232,0 V 100"
+           inkscape:label="MinorXDiv11:3"
+           id="path28204" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 236,0 V 100"
+           inkscape:label="MinorXDiv11:4"
+           id="path28206" />
+      </g>
+      <g
+         inkscape:label="MinorYGridlines"
+         id="g28250"
+         style="stroke:#808080;stroke-opacity:1">
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,4 H 240"
+           inkscape:label="MinorXYiv0:1"
+           id="path28210" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,8 H 240"
+           inkscape:label="MinorXYiv0:2"
+           id="path28212" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,12 H 240"
+           inkscape:label="MinorXYiv0:3"
+           id="path28214" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,16 H 240"
+           inkscape:label="MinorXYiv0:4"
+           id="path28216" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,24 H 240"
+           inkscape:label="MinorXYiv1:1"
+           id="path28218" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,28 H 240"
+           inkscape:label="MinorXYiv1:2"
+           id="path28220" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,32 H 240"
+           inkscape:label="MinorXYiv1:3"
+           id="path28222" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,36 H 240"
+           inkscape:label="MinorXYiv1:4"
+           id="path28224" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,44 H 240"
+           inkscape:label="MinorXYiv2:1"
+           id="path28226" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,48 H 240"
+           inkscape:label="MinorXYiv2:2"
+           id="path28228" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,52 H 240"
+           inkscape:label="MinorXYiv2:3"
+           id="path28230" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,56 H 240"
+           inkscape:label="MinorXYiv2:4"
+           id="path28232" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,64 H 240"
+           inkscape:label="MinorXYiv3:1"
+           id="path28234" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,68 H 240"
+           inkscape:label="MinorXYiv3:2"
+           id="path28236" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,72 H 240"
+           inkscape:label="MinorXYiv3:3"
+           id="path28238" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,76 H 240"
+           inkscape:label="MinorXYiv3:4"
+           id="path28240" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,84 H 240"
+           inkscape:label="MinorXYiv4:1"
+           id="path28242" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,88 H 240"
+           inkscape:label="MinorXYiv4:2"
+           id="path28244" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,92 H 240"
+           inkscape:label="MinorXYiv4:3"
+           id="path28246" />
+        <path
+           style="fill:none;stroke:#808080;stroke-width:0.5;stroke-opacity:1"
+           d="M 0,96 H 240"
+           inkscape:label="MinorXYiv4:4"
+           id="path28248" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="240"
+         height="100"
+         style="fill:none;stroke:#808080;stroke-width:1;stroke-opacity:1"
+         inkscape:label="Border"
+         id="rect28252" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.00002;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8724"
+       width="39.999981"
+       height="59.999981"
+       x="0.50001001"
+       y="0.50001001" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.52501px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="6.7124429"
+       y="33.160305"
+       id="text9506"><tspan
+         sodipodi:role="line"
+         id="tspan9504"
+         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+         x="6.7124429"
+         y="33.160305">(0, 0)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.00001;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8724-4"
+       width="79.999985"
+       height="39.999989"
+       x="40.50037"
+       y="60.50037" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.52501px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="66.712456"
+       y="83.160309"
+       id="text9506-4"><tspan
+         sodipodi:role="line"
+         id="tspan9504-4"
+         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+         x="66.712456"
+         y="83.160309">(1, 1)</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.75;stroke:#0000ff;stroke-width:1.00003;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8724-4-7"
+       width="119.99997"
+       height="19.999971"
+       x="120.50002"
+       y="60.500015" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.52501px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+       x="166.71248"
+       y="73.160301"
+       id="text9506-4-2"><tspan
+         sodipodi:role="line"
+         id="tspan9504-4-5"
+         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1"
+         x="166.71248"
+         y="73.160301">(1, 2)</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+t1-01-compact-eof
+t1-02-compact-exit
+t1-03-compact-weird
+t2-01-compactzero-exit
+t3-01-pretty-eof
+t3-02-compact-switch
+t4-01-compact-o-wins
+t4-02-pretty-o-wins
+t5-01-pretty-bad-moves

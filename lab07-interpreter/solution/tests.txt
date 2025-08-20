@@ -1,0 +1,13 @@
+t1-01-load-print
+t1-02-elem
+t1-03-print-empty
+t1-04-eof
+t2-01-load-errors
+t2-02-elem-errors
+t3-01-add
+t3-02-add-error
+t3-03-mul
+t3-04-mul-error
+t4-01-unknown-command
+t4-02-invalid-command
+t4-03-bad-register

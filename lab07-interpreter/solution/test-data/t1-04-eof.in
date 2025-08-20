@@ -1,0 +1,2 @@
+load $0 test-data/matrix-2x3.txt
+load $1 test-data/matrix-3x2.txt

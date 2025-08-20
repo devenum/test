@@ -1,0 +1,1 @@
+Invalid BMP: expected 24 bits per pixel, got 1

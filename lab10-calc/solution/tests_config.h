@@ -1,0 +1,9 @@
+#ifndef TESTS_CONFIG_H_
+#define TESTS_CONFIG_H_
+
+#define TEST_FUNCTIONS
+#define TEST_CLI_SIMPLE
+#define TEST_COMPLEX_EXPRESSIONS
+#define TEST_CLI_LONG_LINES
+
+#endif  // TESTS_CONFIG_H_
