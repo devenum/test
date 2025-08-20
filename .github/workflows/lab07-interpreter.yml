@@ -1,0 +1,16 @@
+name: lab07-interpreter
+on:
+  push:
+    branches:
+      - 'lab07-*'
+defaults:
+  run:
+    working-directory: lab07-interpreter/solution
+jobs:
+  c:
+    uses: ./.github/workflows/common-02.yml
+    with:
+      working_directory: lab07-interpreter/solution
+      run_test_data_extra_args: ./main
+      skip_ubuntu_libcxx: true  # https://bugs.launchpad.net/ubuntu/+source/llvm-toolchain-14/+bug/2000322 and https://github.com/llvm/llvm-project/issues/59432
+      max_lines: 500

@@ -1,0 +1,17 @@
+name: lab03-widgets
+on:
+  push:
+    branches:
+      - 'lab03-*'
+defaults:
+  run:
+    working-directory: lab03-widgets/solution
+jobs:
+  c:
+    uses: ./.github/workflows/common-02.yml
+    with:
+      working_directory: lab03-widgets/solution
+      simple_compilation_name: doctest_main
+      simple_compilation_extra_tus: abstract_widgets.cpp ball_icon.cpp ball_icon_test.cpp box.cpp box_test.cpp button.cpp button_test.cpp grid.cpp grid_test.cpp integration_test.cpp placeholder.cpp placeholder_test.cpp
+      max_lines: 500
+      max_lines_ignored_iregex: \.\/button\.cpp\|\.\/button\.hpp\|\.\/placeholder\.cpp\|\.\/placeholder\.hpp\|\.\/test_utils\.hpp

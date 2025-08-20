@@ -1,0 +1,16 @@
+name: lab10-calc
+on:
+  push:
+    branches:
+      - 'lab10-*'
+defaults:
+  run:
+    working-directory: lab10-calc/solution
+jobs:
+  c:
+    uses: ./.github/workflows/common-01.yml
+    with:
+      working_directory: lab10-calc/solution
+      clang_tidy_extra: -extra-arg=-Ilib/include
+      max_lines: 500
+      max_lines_ignored_iregex: ".*_test_c\\.c\\|./demo-parser\\.c"
